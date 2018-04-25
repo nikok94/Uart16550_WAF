@@ -1,1 +1,10 @@
 C:\LEMZ-T\2_VisualStudio\UartWizard\Uart16550_wizard\Uart16550_wizard\bin\Debug\Uart16550_wizard.exe.config
+C:\GIT_projects\GitHub\Uart16550_WAF\Uart16550_wizard\Uart16550_wizard\bin\Debug\Uart16550_wizard.exe.config
+C:\GIT_projects\GitHub\Uart16550_WAF\Uart16550_wizard\Uart16550_wizard\bin\Debug\Uart16550_wizard.exe
+C:\GIT_projects\GitHub\Uart16550_WAF\Uart16550_wizard\Uart16550_wizard\bin\Debug\Uart16550_wizard.pdb
+C:\GIT_projects\GitHub\Uart16550_WAF\Uart16550_wizard\Uart16550_wizard\obj\Debug\Uart16550_wizard.csprojResolveAssemblyReference.cache
+C:\GIT_projects\GitHub\Uart16550_WAF\Uart16550_wizard\Uart16550_wizard\obj\Debug\Uart16550_wizard.AXI_Uart16550.resources
+C:\GIT_projects\GitHub\Uart16550_WAF\Uart16550_wizard\Uart16550_wizard\obj\Debug\Uart16550_wizard.Properties.Resources.resources
+C:\GIT_projects\GitHub\Uart16550_WAF\Uart16550_wizard\Uart16550_wizard\obj\Debug\Uart16550_wizard.csproj.GenerateResource.Cache
+C:\GIT_projects\GitHub\Uart16550_WAF\Uart16550_wizard\Uart16550_wizard\obj\Debug\Uart16550_wizard.exe
+C:\GIT_projects\GitHub\Uart16550_WAF\Uart16550_wizard\Uart16550_wizard\obj\Debug\Uart16550_wizard.pdb
